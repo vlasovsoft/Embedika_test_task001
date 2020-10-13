@@ -1,0 +1,7 @@
+input[type="date"]{
+  width:120px;
+  border: none;
+  clip-path: inset(0 17px 0 0);
+  outline:none;
+  outline:0;
+}
